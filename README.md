@@ -9,17 +9,23 @@
 ###### My name is Alexander, I live in Russia, Omsk. Now I'm 18 years old and my main development stack is Python and Android developer.
 
 ### Languages and Tools
-![Aiogram](https://img.shields.io/badge/-Aiogram-blue?style=for-the-badge&logo=telegram)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-ECEDF0?style=for-the-badge&logo=postgresql)
-![SQLite](https://img.shields.io/badge/-SQLite-57AAE0?style=for-the-badge&logo=Sqlite)
+![Aiogram](https://img.shields.io/badge/-Aiogram-black?style=for-the-badge&logo=telegram)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-white?style=for-the-badge&logo=postgresql)
+![SQLite](https://img.shields.io/badge/-SQLite-black?style=for-the-badge&logo=Sqlite)
 ![GIT](https://img.shields.io/badge/-GIT-white?style=for-the-badge&logo=GIT)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github)
-![Telebot](https://img.shields.io/badge/-Telebot-blue?style=for-the-badge&logo=telegram)
-![Kotlin](https://img.shields.io/badge/-Kotlin-orange?style=for-the-badge&logo=kotlin)
-![Python](https://img.shields.io/badge/-Python-lightyellow?style=for-the-badge&logo=python)
+![Telebot](https://img.shields.io/badge/-Telebot-white?style=for-the-badge&logo=telegram)
+![Kotlin](https://img.shields.io/badge/-Kotlin-black?style=for-the-badge&logo=kotlin)
+![Python](https://img.shields.io/badge/-Python-white?style=for-the-badge&logo=python)
 ![AndroidStudio](https://img.shields.io/badge/-Android_Studio-black?style=for-the-badge&logo=androidstudio)
-![PyCharm](https://img.shields.io/badge/-PyCharm-green?style=for-the-badge&logo=pycharm)
+![PyCharm](https://img.shields.io/badge/-PyCharm-black?style=for-the-badge&logo=pycharm)
 
 ### CodeWars category
 
-Follow me
+![CodeWars](https://github.com/Alexandr153/Alexandr153/blob/main/assets/CodeWars.png)
+
+### Follow me
+
+![[Telegram](https://img.shields.io/badge/-Telegram-black?style=for-the-badge&logo=telegram)](https://t.me/Sashkald)
+![[VK](https://img.shields.io/badge/-VK-black?style=for-the-badge&logo=vk)](https://vk.com/nirvanainomsk)
+![[CodeWars](https://img.shields.io/badge/-CodeWars-black?style=for-the-badge&logo=codewars)](https://www.codewars.com/users/sashok123)
