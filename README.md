@@ -6,7 +6,7 @@
 
 ### About me
 
-
+###### My name is Alexander, I live in Russia, Omsk. Now I'm 18 years old and my main development stack is Python and Android developer.
 
 ### Languages and Tools
 ![Aiogram](https://img.shields.io/badge/-Aiogram-blue?style=for-the-badge&logo=telegram)
@@ -20,6 +20,6 @@
 ![AndroidStudio](https://img.shields.io/badge/-Android_Studio-black?style=for-the-badge&logo=androidstudio)
 ![PyCharm](https://img.shields.io/badge/-PyCharm-green?style=for-the-badge&logo=pycharm)
 
-CodeWars category
+### CodeWars category
 
 Follow me
