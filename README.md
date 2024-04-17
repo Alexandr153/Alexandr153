@@ -7,7 +7,7 @@
 About me
 
 Languages and Tools
-![Aiogram]
+![Aiogram](https://github.com/Alexandr153/Alexandr153/blob/main/assets/aiogram.png)
 
 CodeWars category
 
