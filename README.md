@@ -26,6 +26,6 @@
 
 ### Follow me
 
-![[Telegram](https://img.shields.io/badge/-Telegram-black?style=for-the-badge&logo=telegram)](https://t.me/Sashkald)
-![[VK](https://img.shields.io/badge/-VK-black?style=for-the-badge&logo=vk)](https://vk.com/nirvanainomsk)
-![[CodeWars](https://img.shields.io/badge/-CodeWars-black?style=for-the-badge&logo=codewars)](https://www.codewars.com/users/sashok123)
+[![Telegram](https://img.shields.io/badge/-Telegram-black?style=for-the-badge&logo=telegram)](https://t.me/Sashkald)
+[![VK](https://img.shields.io/badge/-VK-black?style=for-the-badge&logo=vk)](https://vk.com/nirvanainomsk)
+[![CodeWars](https://img.shields.io/badge/-CodeWars-black?style=for-the-badge&logo=codewars)](https://www.codewars.com/users/sashok123)
