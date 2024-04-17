@@ -2,11 +2,12 @@
 
 ![Header](https://github.com/Alexandr153/Alexandr153/blob/main/assets/header.png)
 
-## Python Developer
+## Python & Android Developer
 
 About me
 
 Languages and Tools
+![Aiogram]
 
 CodeWars category
 
