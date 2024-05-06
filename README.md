@@ -1,4 +1,4 @@
-# Alexandr153
+# Alexandr153 ![Hat](https://github.com/Alexandr153/Alexandr153/blob/main/assets/hat.png)
 
 ![Header](https://github.com/Alexandr153/Alexandr153/blob/main/assets/header.png)
 
