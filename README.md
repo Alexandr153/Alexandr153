@@ -1,7 +1,6 @@
 # Alexandr153 
 ![hat](https://github.com/Alexandr153/Alexandr153/blob/main/icons8-github-128.png)
 
-
 ## Python & Android Developer
 
 ### About me
@@ -22,7 +21,7 @@
 ![Docker](https://img.shields.io/badge/-Docker-black?style=for-the-badge&logo=docker)
 
 ### CodeWars category
-
+![codewars](https://github.com/Alexandr153/Alexandr153/blob/main/CodeWars.png)
 
 ### Follow me
 
