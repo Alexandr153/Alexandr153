@@ -19,6 +19,7 @@
 ![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python)
 ![AndroidStudio](https://img.shields.io/badge/-Android_Studio-black?style=for-the-badge&logo=androidstudio)
 ![PyCharm](https://img.shields.io/badge/-PyCharm-black?style=for-the-badge&logo=pycharm)
+![Docker](https://img.shields.io/badge/-Docker-black?style=for-the-badge&logo=docker)
 
 ### CodeWars category
 
