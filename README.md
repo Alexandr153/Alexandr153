@@ -1,5 +1,5 @@
 # Alexandr153 
-![Hat](https://github.com/Alexandr153/Alexandr153/main/hat.png)
+![hat](https://github.com/Alexandr153/Alexandr153/blob/main/icons8-github-128.png)
 
 
 ## Python & Android Developer
