@@ -1,5 +1,4 @@
-# Alexandr153 
-![hat](https://github.com/Alexandr153/Alexandr153/blob/main/icons8-github-128.png)
+# Alexandr153 ![hat](https://github.com/Alexandr153/Alexandr153/blob/main/icons8-github-94.png)
 
 ## Python & Android Developer
 
@@ -8,7 +7,7 @@
 ###### My name is Alexander, I live in Russia, Omsk. Now I'm 18 years old and my main development stack is Python and Android developer.
 
 ### Languages and Tools
-![Aiogram](https://img.shields.io/badge/-Aiogram-black?style=for-the-badge&logo=telegram)
+![Aiogram](https://img.shieslds.io/badge/-Aiogram-black?style=for-the-badge&logo=telegram)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=for-the-badge&logo=postgresql)
 ![SQLite](https://img.shields.io/badge/-SQLite-black?style=for-the-badge&logo=Sqlite)
 ![GIT](https://img.shields.io/badge/-GIT-black?style=for-the-badge&logo=GIT)
