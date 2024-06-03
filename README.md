@@ -19,6 +19,7 @@
 ![PyCharm](https://img.shields.io/badge/-PyCharm-black?style=for-the-badge&logo=pycharm)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=for-the-badge&logo=docker)
 ![MASM](https://img.shields.io/badge/-Assembler-black?style=for-the-badge&logo=microsoft)
+![HTML](https://img.shields.io/badge/-Html-black?style=for-the-badge&logo=html)
 
 
 ### CodeWars category
