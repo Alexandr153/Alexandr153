@@ -20,6 +20,7 @@
 ![Docker](https://img.shields.io/badge/-Docker-black?style=for-the-badge&logo=docker)
 ![MASM](https://img.shields.io/badge/-Assembler-black?style=for-the-badge&logo=microsoft)
 ![HTML](https://img.shields.io/badge/-Html-black?style=for-the-badge&logo=html)
+![VSCode](https://img.shields.io/badge/-VScode-black?style=for-the-badge&logo=visualstudio)
 
 
 ### CodeWars category
