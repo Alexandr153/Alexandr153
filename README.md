@@ -12,15 +12,17 @@
 ![SQLite](https://img.shields.io/badge/-SQLite-black?style=for-the-badge&logo=Sqlite)
 ![GIT](https://img.shields.io/badge/-GIT-black?style=for-the-badge&logo=GIT)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github)
-![Telebot](https://img.shields.io/badge/-Telebot-black?style=for-the-badge&logo=telegram)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-black?style=for-the-badge&logo=kotlin)
 ![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python)
 ![AndroidStudio](https://img.shields.io/badge/-Android_Studio-black?style=for-the-badge&logo=androidstudio)
 ![PyCharm](https://img.shields.io/badge/-PyCharm-black?style=for-the-badge&logo=pycharm)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=for-the-badge&logo=docker)
 ![MASM](https://img.shields.io/badge/-Assembler-black?style=for-the-badge&logo=microsoft)
-![HTML](https://img.shields.io/badge/-Html-black?style=for-the-badge&logo=html)
 ![VSCode](https://img.shields.io/badge/-VScode-black?style=for-the-badge&logo=visualstudio)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
+![CSS](https://img.shields.io/badge/-CSS-black?style=for-the-badge&logo=)
+![HTML](https://img.shields.io/badge/-Html-black?style=for-the-badge&logo=html)
+![Markdown](https://img.shields.io/badge/-Markdown-black?style=for-the-badge&logo=markdown)
 
 
 ### CodeWars category
