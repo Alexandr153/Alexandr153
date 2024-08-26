@@ -1,10 +1,11 @@
 # Alexandr153
 
-## Python, Android & Web Developer
+## Python developer
 
 ### About me
 
-###### My name is Alexander, I live in Russia, Omsk. Now I'm 18 years old and my main development stack is Python.
+###### My name is Alexandr, I live in Russia, Omsk. Now I'm 18 years old and my main development stack is Python.
+
 
 ### Languages and Tools
 ![Aiogram](https://img.shields.io/badge/-Aiogram-black?style=for-the-badge&logo=telegram)
@@ -25,11 +26,19 @@
 ![Markdown](https://img.shields.io/badge/-Markdown-black?style=for-the-badge&logo=markdown)
 
 
-### CodeWars category
-![codewars](https://github.com/Alexandr153/Alexandr153/blob/main/CodeWars.png)
+### Some stats...
+[![codewars](https://www.codewars.com/users/Alexandr153/badges/large)](https://www.codewars.com/users/Alexandr153)   
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alexandr153&show_icons=true&theme=slateorange)
+
+
 
 ### Follow me
 
 [![Telegram](https://img.shields.io/badge/-Telegram-black?style=for-the-badge&logo=telegram)](https://t.me/Sashkald)
 [![VK](https://img.shields.io/badge/-VK-black?style=for-the-badge&logo=vk)](https://vk.com/nirvanainomsk)
 [![CodeWars](https://img.shields.io/badge/-CodeWars-black?style=for-the-badge&logo=codewars)](https://www.codewars.com/users/sashok123)
+
+
+![](https://komarev.com/ghpvc/?username=your-github-Alexandr153)
+
