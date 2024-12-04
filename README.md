@@ -4,7 +4,7 @@
 
 ### About me
 
-###### My name is Alexandr, I live in Russia, Omsk. Now I'm 18 years old and my main development stack is Python.
+###### My name is Alexandr, I live in Russia, Omsk. Now I'm 19 years old and my main development stack is Python.
 
 
 ### Languages and Tools
