@@ -25,6 +25,10 @@
 ![CSS](https://img.shields.io/badge/-CSS-black?style=for-the-badge&logo=)
 ![HTML](https://img.shields.io/badge/-Html-black?style=for-the-badge&logo=html)
 ![Markdown](https://img.shields.io/badge/-Markdown-black?style=for-the-badge&logo=markdown)
+![GoLang](https://img.shields.io/badge/-Go-black?style=for-the-badge&logo=go)
+![Redis](https://img.shields.io/badge/-Redis-black?style=for-the-badge&logo=redis)
+
+
 
 
 ### Some stats...
