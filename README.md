@@ -7,7 +7,7 @@
 ### About me
 My name is Alexander and I am a third-year Computer Security student at Omsk State University in Omsk, Russia.  
 I am passionate about programming and modern software engineering, with a particular focus on backend development.  
-My main specialisations are **Python** and **Go**.
+My main specialisations are **Python** and **Go**. 
 
 ### Areas of expertise and skills
 
@@ -23,9 +23,10 @@ My main specialisations are **Python** and **Go**.
 - **Scripting and process automation in Linux environments** (Bash, Python).
 - **Project organisation and documentation** (README files, ROADMAPs, CONTRIBUTING guidelines).
 - **Fundamental knowledge of cybersecurity** from academic training (network protocols, system security, theoretical foundations).
+- **Open Source contributions** — participation in the development of **CPython**, including reporting issues, code improvements, and accepted pull requests.
 
 
-
+  
 
 ### Languages and Tools
 ![Aiogram](https://img.shields.io/badge/-Aiogram-black?style=for-the-badge&logo=telegram)
