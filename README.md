@@ -4,7 +4,27 @@
 
 ### About me
 
-###### My name is Alexandr, I live in Russia, Omsk. Now I'm 19 years old and my main development stack is Python.
+### About me
+My name is Alexander and I am a third-year Computer Security student at Omsk State University in Omsk, Russia.  
+I am passionate about programming and modern software engineering, with a particular focus on backend development.  
+My main specialisations are **Python** and **Go**.
+
+### Areas of expertise and skills
+
+- **Telegram automation and integration via API** (Telethon, Aiogram, Telebot; asynchronous programming; bot development; account management; data parsing).
+- **Minecraft Forge mod development** (custom objects, animations, network packets, and gameplay mechanics in Java).
+- **Game server development and administration** (Counter-Strike 1.6 and SA-MP: server configuration, scripting, plugins, and community management).
+- **Linux/Ubuntu system administration and VPS management** (user management, security hardening, and service deployment).
+- **Application integration with relational and NoSQL databases** (PostgreSQL, Redis, MongoDB).
+- **Asynchronous and parallel programming in Python** (`asyncio`, `httpx`, `aiofiles`, multiprocessing).
+- **Collaborative project development with Git/GitHub** (branching strategies, pull requests, issues, milestones, CI/CD pipelines).
+- **Containerisation and deployment with Docker/Docker Compose** (building optimised images, orchestration, experimenting with Kubernetes).
+- **Monitoring and logging** (Prometheus, Grafana, structured logging).
+- **Scripting and process automation in Linux environments** (Bash, Python).
+- **Project organisation and documentation** (README files, ROADMAPs, CONTRIBUTING guidelines).
+- **Fundamental knowledge of cybersecurity** from academic training (network protocols, system security, theoretical foundations).
+
+
 
 
 ### Languages and Tools
