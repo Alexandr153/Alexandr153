@@ -3,7 +3,7 @@
 ## Python developer
 
 ### About me
-My name is Alexander and I am a third-year Computer Security student at Omsk State University in Omsk, Russia.  
+My name is Alexander and I am a fourth-year Computer Security student at Omsk State University in Omsk, Russia.  
 I am passionate about programming and modern software engineering, with a particular focus on backend development.  
 My main specialisations are **Python** and **Go**. 
 
